@@ -1,0 +1,7 @@
+CatchAllIntent {CatchAll}
+CatchAllIntent youtube {CatchAll}
+CatchAllIntent you tube {CatchAll}
+CatchAllIntent find {CatchAll} on youtube
+CatchAllIntent find {CatchAll} on you tube
+CatchAllIntent look for {CatchAll} on youtube
+CatchAllIntent look for {CatchAll} on you tube
